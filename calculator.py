@@ -3,6 +3,8 @@ def add(a, b):
 
 def multiply(a, b):
     return a * b
+def subtract(a, b):
+    return a - b
 
 if __name__ == "__main__":
     print("Addition:", add(15, 25))
